@@ -2,13 +2,25 @@
 
 <!-- TODO: Add task template -->
 
-Read the prd.md and techspec.md files in this folder, if you don't read these files your task will be invalidated.
+<critical>Read the prd.md and techspec.md files in this folder, if you don't read these files your task will be invalidated.</critical>
 
 ## Overview
 
 <!-- TODO: Add overview -->
 
 A brief description of the task.
+
+<skills>
+### Compliance with Standard Skills
+
+Search the skills in the `@.claude/skills` folder that fit and apply to this task and list them below:
+</skills>
+
+<requirements>
+### Requirements
+
+List the requirements for this task:
+</requirements>
 
 ## Subtasks
 

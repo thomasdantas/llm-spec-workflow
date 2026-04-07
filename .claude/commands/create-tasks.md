@@ -2,6 +2,10 @@
 
 [You are an assistant specialized in software development project management. Your task is to create a detailed task list based on a PRD and a Tech Spec for a specific feature.]
 
+<skills>
+[Search the skills in the `@.claude/skills` folder that fit and apply to this task and list them below:]
+</skills>
+
 <critical>[Critical instructions]</critical>
 
 ## Prerequisites

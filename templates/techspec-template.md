@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-Provide a brief technical overview of the solution approach. Summarize the main architectural decisions and implementation strategy in 1-2 paragraphs.
+[Provide a brief technical overview of the solution approach. Summarize the main architectural decisions and implementation strategy in 1-2 paragraphs.]
 
 ## System Architecture
 
@@ -35,31 +35,31 @@ type MainService interface {
 
 <!-- TODO: Add data models -->
 
-Define essential data structures:
+[Define essential data structures:
 
 - Main domain entities (if applicable)
 - Request/response types
-- Database schemas (if applicable)
+- Database schemas (if applicable)]
 
 ### API Endpoints
 
 <!-- TODO: Add API endpoints -->
 
-List API endpoints if applicable:
+[List API endpoints if applicable:
 
 - Method and path (e.g. `POST /api/v0/resource`)
 - Brief description
-- References to request/response format
+- References to request/response format]
 
 ## Integration Points
 
 <!-- TODO: Add integration points -->
 
-Include only if the feature requires external integrations:
+[Include only if the feature requires external integrations:
 
 - External services or APIs
 - Authentication requirements
-- Error handling approach
+- Error handling approach]
 
 ## Testing Approach
 
@@ -67,28 +67,28 @@ Include only if the feature requires external integrations:
 
 <!-- TODO: Add unit tests strategy -->
 
-Describe unit test strategy:
+[Describe unit test strategy:
 
 - Main components to test
 - Mock requirements (only external services)
-- Critical test scenarios
+- Critical test scenarios]
 
 ### Integration Tests
 
 <!-- TODO: Add integration tests strategy -->
 
-Describe integration test strategy:
+[Describe integration test strategy:
 
 - Components to test together
-- Test data requirements
+- Test data requirements]
 
 ### E2E Tests
 
 <!-- TODO: Add E2E tests strategy -->
 
-Describe E2E test strategy:
+[Describe E2E test strategy:
 
-- Test the frontend together with the backend **using Playwright**
+- Test the frontend together with the backend **using Playwright**]
 
 ## Development Sequence
 
@@ -96,25 +96,27 @@ Describe E2E test strategy:
 
 <!-- TODO: Add build order -->
 
+[Define the build order:
+
 1. First component/feature (why first)
 2. Second component/feature (dependencies)
 3. Subsequent components
-4. Integration and tests
+4. Integration and tests]
 
 ### Technical Dependencies
 
 <!-- TODO: Add technical dependencies -->
 
-List any blocking dependencies:
+[List any blocking dependencies:
 
 - Required infrastructure
-- Availability of external service
+- Availability of external service]
 
 ## Monitoring and Observability
 
 <!-- TODO: Add monitoring and observability strategy -->
 
-Define monitoring strategy using existing infrastructure
+[Define monitoring strategy using existing infrastructure]
 
 ## Technical Considerations
 
@@ -122,7 +124,7 @@ Define monitoring strategy using existing infrastructure
 
 <!-- TODO: Add main decisions -->
 
-Document main technical decisions
+[Document main technical decisions]
 
 ### Known Risks
 
@@ -142,4 +144,4 @@ Search the rules in the `@.claude/rules` folder that fit and apply to this techs
 
 <!-- TODO: Add relevant files and dependencies -->
 
-List relevant files and dependencies
+[List relevant files and dependencies]

@@ -8,18 +8,18 @@
 
 <!-- TODO: Add overview -->
 
-A brief description of the task.
+[A brief description of the task.]
 
 <skills>
 ### Compliance with Standard Skills
 
-Search the skills in the `@.claude/skills` folder that fit and apply to this task and list them below:
+[Search the skills in the `@.claude/skills` folder that fit and apply to this task and list them below:]
 </skills>
 
 <requirements>
 ### Requirements
 
-List the requirements for this task:
+[List the requirements for this task:]
 </requirements>
 
 ## Subtasks
@@ -33,14 +33,14 @@ List the requirements for this task:
 
 <!-- TODO: Add implementation details -->
 
-Relevant sections of the technical spec. **DO NOT SHOW THE ENTIRE IMPLEMENTATION, ONLY REFERENCE THE techspec.md**
+[Relevant sections of the technical spec. **DO NOT SHOW THE ENTIRE IMPLEMENTATION, ONLY REFERENCE THE techspec.md**]
 
 ## Success Criteria
 
 <!-- TODO: Add success criteria -->
 
-- Measurable results
-- Quality requirements
+[Measurable results]
+[Quality requirements]
 
 ## Task Tests
 
@@ -49,10 +49,10 @@ Relevant sections of the technical spec. **DO NOT SHOW THE ENTIRE IMPLEMENTATION
 - [ ] Unit tests
 - [ ] Integration tests
 
-Always create and execute the task tests before considering the task completed.
+[Always create and execute the task tests before considering the task completed.]
 
 ## Relevant Files
 
 <!-- TODO: Add relevant files -->
 
-- Relevant files for this task
+[Relevant files for this task]
